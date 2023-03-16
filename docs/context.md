@@ -11,16 +11,12 @@ Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Para os tutores de animais de estimação, sempre irá existir a dúvida na hora de programar viagens sobre levar ou não o pet. Grande parte disso se deve ao fato de ou o tutor não ter alguém de confiança com quem deixar o pet ou pelo fato de não terem confiança e segurança nos serviços de hospedagem para pets ou por esses serviços terem um custo elevado que inviabilizaria a contratação. Fato é que os pets são considerados importantes para seus tutores, sendo mantida uma relação de carinho e proteção com eles, muitas vezes, vistos como membros da família, se tornando uma tarefa difícil deixá-los para trás nos períodos de viagem. 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Não é à toa que, durante a pandemia, houve um aumento de 30% no número de pets em lares brasileiros, segundo a pesquisa Radar Pet 2021, realizada pela Comissão de Animais de Companhia (Comac). Muitas pessoas procuraram alento e companhia nos animais de estimação durante esse período em que tiveram que passar mais tempo em casa, em isolamento social (NÚMERO..., 2021). Isso reforça que os pets são capazes de desenvolver em seus tutores um verdadeiro laço de amor, tão forte, que é capaz de mitigar as feridas sociais e psicológicas que a pandemia causou.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Por isso, muitos tutores decidem levar seus pets nas viagens. O site de reservas Booking realizou uma pesquisa em 2019, com 22 mil pessoas, na qual 51% dos entrevistados declararam que só viajariam em 2020 se pudessem levar seus pets, e 59% aceitaria pagar mais caro em acomodações pet friendly (OLIVEIRA, 2021). Porém, a maioria dos tutores desconhece as regras e cuidados que devem ter para garantir a segurança e conforto dos animais durante as viagens. Outro fator dificultador é saber onde pesquisar por locais que possuem hospedagens, serviços, como restaurantes, e, até mesmo, pontos turísticos, que sejam pet friendly.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -52,3 +48,7 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
+## Referências
+
+Listar as referências utilizadas no projeto.
