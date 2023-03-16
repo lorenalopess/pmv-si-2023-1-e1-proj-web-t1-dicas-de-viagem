@@ -1,4 +1,4 @@
-# Título do Projeto
+# Meu Pet Viaja
 
 `CURSO: Sistemas de Informação`
 
@@ -13,8 +13,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Ana Carolina Fernandes de Assis
 * Lucas Rodrigo Gonçalves
 * Daniela Sofia Fernandes de Assis
-* Nome completo do aluno 4
-* Nome completo do aluno 5
 
 ## Orientador
 
