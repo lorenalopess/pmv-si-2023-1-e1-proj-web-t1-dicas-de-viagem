@@ -15,17 +15,19 @@ Para os tutores de animais de estimação, sempre irá existir a dúvida na hora
 
 Não é à toa que, durante a pandemia, houve um aumento de 30% no número de pets em lares brasileiros, segundo a pesquisa Radar Pet 2021, realizada pela Comissão de Animais de Companhia (Comac). Muitas pessoas procuraram alento e companhia nos animais de estimação durante esse período em que tiveram que passar mais tempo em casa, em isolamento social (NÚMERO..., 2021). Isso reforça que os pets são capazes de desenvolver em seus tutores um verdadeiro laço de amor, tão forte, que é capaz de mitigar as feridas sociais e psicológicas que a pandemia causou.
 
-Por isso, muitos tutores decidem levar seus pets nas viagens. O site de reservas Booking realizou uma pesquisa em 2019, com 22 mil pessoas, na qual 51% dos entrevistados declararam que só viajariam em 2020 se pudessem levar seus pets, e 59% aceitaria pagar mais caro em acomodações pet friendly (OLIVEIRA, 2021). Porém, a maioria dos tutores desconhece as regras e cuidados que devem ter para garantir a segurança e conforto dos animais durante as viagens. Outro fator dificultador é saber onde pesquisar por locais que possuem hospedagens, serviços, como restaurantes, e, até mesmo, pontos turísticos, que sejam pet friendly.
-
+Por isso, muitos tutores decidem levar seus pets nas viagens. O site de reservas Booking realizou uma pesquisa em 2019, com 22 mil pessoas, na qual 51% dos entrevistados declararam que só viajariam em 2020 se pudessem levar seus pets, e 59% aceitaria pagar mais caro em acomodações *pet friendly* (OLIVEIRA, 2021). Porém, a maioria dos tutores desconhece as regras e cuidados que devem ter para garantir a segurança e conforto dos animais durante as viagens. Outro fator dificultador é saber onde pesquisar por locais que possuem hospedagens, serviços, como restaurantes, e, até mesmo, pontos turísticos, que sejam *pet friendly*.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+### Objetivo principal:
+Desenvolver um site que contenha informações sobre regras e cuidados que os tutores devem ter ao viajar com seus animais de estimação e dicas de locais em Minas Gerais que possuam hospedagem *pet friendly*. Garantindo, assim, que os tutores tenham facilidade em programar o destino da viagem sem ter que deixar um importante membro da família para trás.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+### Objetivos específicos:
+-	Identificar e coletar informações sobre regras de viagem com pets em companhias aéreas, de ônibus e traslado em carro particular;
+
+-	Identificar e listar hotéis, pousadas e airbnbs em Minas Gerais que aceitem a hospedagem de animais de estimação;
+
+- Identificar e listar serviços e pontos turísticos de cidades mineiras que permitam o acesso de animais de estimação.
 
 ## Justificativa
 
@@ -51,4 +53,7 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 
 ## Referências
 
-Listar as referências utilizadas no projeto.
+NÚMERO de pets nos lares brasileiros cresce 30% durante a pandemia: Segundo a pesquisa Radar Pet 2021, gatos foram mais adotados do que cachorros; hábitos de cuidado e perfil dos tutores também foram analisados no estudo. **Galileu**, 01 de ago. 2021. Comportamento. Disponível em: https://revistagalileu.globo.com/Sociedade/Comportamento/noticia/2021/08/numero-de-pets-nos-lares-brasileiros-cresce-30-durante-pandemia.html. Acesso em: 16 mar. 2023.
+
+OLIVEIRA, Jéssica. Turismo investe para atender e mimar animais de estimação. **Propmark**, 26 de set. 2021. Notícias. Disponível em: https://propmark.com.br/turismo-investe-para-atender-e-mimar-animais-de-estimacao/. Acesso em: 16 mar. 2023.
+
