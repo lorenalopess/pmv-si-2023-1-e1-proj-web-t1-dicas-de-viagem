@@ -4,10 +4,12 @@ Imagine que você deseja apresentar este projeto para investidores que deverão 
 
 A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
 
+## Contextualização
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
+O Brasil é o terceiro país com o maior número de animais domésticos, segundo o censo do IPB (Instituto Pet Brasil) de 2021, com 149,6 milhões de animais. Considerando os 215 milhões de brasileiros, pelo menos 70% da população tem um pet em casa. Desde 2019, ano anterior à pandemia, o faturamento do mercado de pets cresceu 46,45%, já que 30% dos pets brasileiros foram adotados durante o período pandêmico, segundo o Radar Pet 2021 do Sindan. 
 
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Uma pesquisa feita pelo Opinion Box sobre o Mercado de Pets no Brasil mostrou que 85% consideram seus pets como parte da família. Portanto, é de se esperar que lugares que não aceitam pets têm alto risco de perder clientes. 52% relataram que deixaram de frequentar hotéis e pousadas, 49% restaurantes ou lanchonetes, e 43% afirmaram ser importante que o local seja pet-friendly. Há também um grande potencial turístico no setor, uma vez que pesquisa realizada por um portal especializado em viagens apontou que 82% dos entrevistados pretendem viajar com seus animais. 
+
 
 ## Problema
 
