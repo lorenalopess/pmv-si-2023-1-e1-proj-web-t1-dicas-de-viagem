@@ -13,7 +13,6 @@ Está sendo desenvolvido uma aplicação web, com informações e dicas de viage
 * Ana Carolina Fernandes de Assis
 * Lucas Rodrigo Gonçalves
 * Daniela Sofia Fernandes de Assis
-*Thais Camila Gonçalves Costa
 
 ## Orientador
 
