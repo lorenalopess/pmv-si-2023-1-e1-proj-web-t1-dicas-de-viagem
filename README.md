@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Está sendo desenvolvido uma aplicação web, com informações e dicas de viagens para pessoas que querem viajar com seu pet.
 
 ## Integrantes
 
