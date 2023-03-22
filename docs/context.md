@@ -8,7 +8,7 @@ A **Introdução** consiste das etapas: *Contextualização -- Definição do pr
 
 O Brasil é o terceiro país com o maior número de animais domésticos, segundo o censo do IPB (Instituto Pet Brasil) de 2021, com 149,6 milhões de animais. Considerando os 215 milhões de brasileiros, pelo menos 70% da população tem um pet em casa. Desde 2019, ano anterior à pandemia, o faturamento do mercado de pets cresceu 46,45%, já que 30% dos pets brasileiros foram adotados durante o período pandêmico, segundo o Radar Pet 2021.
 
-Uma pesquisa feita pelo Opinion Box sobre o Mercado de Pets no Brasil mostrou que 85% consideram seus pets como parte da família. Portanto, é de se esperar que lugares que não aceitam pets têm alto risco de perder clientes. 52% relataram que deixaram de frequentar hotéis e pousadas, 49% restaurantes ou lanchonetes, e 43% afirmaram ser importante que o local seja pet-friendly. Há também um grande potencial turístico no setor, uma vez que pesquisa realizada por um portal especializado em viagens apontou que 82% dos entrevistados pretendem viajar com seus animais. 
+Uma pesquisa feita pelo Opinion Box sobre o Mercado de Pets no Brasil mostrou que 85% consideram seus pets como parte da família. Portanto, é de se esperar que lugares que não aceitam pets têm alto risco de perder clientes. 52% relataram que deixaram de frequentar hotéis e pousadas, 49% restaurantes ou lanchonetes, e 43% afirmaram ser importante que o local seja *pet-friendly*. Há também um grande potencial turístico no setor, uma vez que pesquisa realizada por um portal especializado em viagens apontou que 82% dos entrevistados pretendem viajar com seus animais. 
 
 
 ## Problema
@@ -22,7 +22,7 @@ Por isso, muitos tutores decidem levar seus pets nas viagens. O site de reservas
 ## Objetivos
 
 ### Objetivo principal:
-Desenvolver um site que contenha informações sobre regras e cuidados que os tutores devem ter ao viajar com seus animais de estimação e dicas de locais em Minas Gerais que possuam hospedagem *pet friendly*. Garantindo, assim, que os tutores tenham facilidade em programar o destino da viagem sem ter que deixar um importante membro da família para trás.
+Desenvolver um site que contenha informações sobre regras e cuidados que os tutores devem ter ao viajar com seus animais de estimação, e dicas de locais em Minas Gerais com hospedagens *pet friendly*. Garantindo, assim, que os tutores não tenham facilidade em programar o destino da viagem sem ter que deixar um importante membro da família para trás.
 
 ### Objetivos específicos:
 -	Identificar e coletar informações sobre regras de viagem com pets em companhias aéreas, de ônibus e traslado em carro particular;
@@ -54,8 +54,13 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
 ## Referências
+Circuito das Águas de Minas Gerais. Viagem em família: tutores buscam locais onde seus pets são bem recebidos. **g1**, 19 de dez. 2022. Especial Publicitário. Disponível em: 
+https://g1.globo.com/mg/sul-de-minas/especial-publicitario/circuito-das-aguas-de-minas-gerais/circuito-das-aguas-de-minas-gerais/noticia/2022/12/19/viagem-em-familia-tutores-buscam-locais-onde-seus-pets-sao-bem-recebidos.ghtml. Acesso em: 17 mar. 2023.
+
+LIMA, Monique. Brasil é o terceiro país com mais pets; setor fatura R$ 52 bilhões. **Forbes**, 4 de out. 2022. Forbes Money. Disponível em: https://forbes.com.br/forbes-money/2022/10/brasil-e-o-terceiro-pais-com-mais-pets-setor-fatura-r-52-bilhoes/. Acesso em: 17 mar. 2023.
 
 NÚMERO de pets nos lares brasileiros cresce 30% durante a pandemia: Segundo a pesquisa Radar Pet 2021, gatos foram mais adotados do que cachorros; hábitos de cuidado e perfil dos tutores também foram analisados no estudo. **Galileu**, 01 de ago. 2021. Comportamento. Disponível em: https://revistagalileu.globo.com/Sociedade/Comportamento/noticia/2021/08/numero-de-pets-nos-lares-brasileiros-cresce-30-durante-pandemia.html. Acesso em: 16 mar. 2023.
 
 OLIVEIRA, Jéssica. Turismo investe para atender e mimar animais de estimação. **Propmark**, 26 de set. 2021. Notícias. Disponível em: https://propmark.com.br/turismo-investe-para-atender-e-mimar-animais-de-estimacao/. Acesso em: 16 mar. 2023.
 
+SALGADO, Danielle. Mercado de pets no Brasil: pesquisa mostra dados exclusivos. **Opinion Box**, 26 de dez. 2022. Blog. Disponível em: https://blog.opinionbox.com/pesquisa-dados-mercado-de-pets-no-brasil/. Acesso em: 17 mar. 2023.
