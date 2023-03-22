@@ -1,9 +1,5 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
-
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
 ## Contextualização
 
 O Brasil é o terceiro país com o maior número de animais domésticos, segundo o censo do IPB (Instituto Pet Brasil) de 2021, com 149,6 milhões de animais. Considerando os 215 milhões de brasileiros, pelo menos 70% da população tem um pet em casa. Desde 2019, ano anterior à pandemia, o faturamento do mercado de pets cresceu 46,45%, já que 30% dos pets brasileiros foram adotados durante o período pandêmico, segundo o Radar Pet 2021.
