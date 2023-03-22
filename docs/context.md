@@ -40,7 +40,10 @@ Espera-se que a página web proposta neste projeto esclareça duvidas e promova 
 
 ## Público-Alvo
 
-Pessoas de todos os gêneros e idades que queiram conhecer lugares e se hospedar, no estado de Minas Gerais levando os seus pets. 
+Homens e mulheres entre 30 e 45 anos, que residem na região sudeste do país, que tenham algum animal de estimação e que queiram viajar com eles para lugares turísticos em Minas Gerais que sejam Pet friendly.
+
+<img title="a title" alt="Alt text" src="/img/persona1-publico-alvo.png">
+<img title="a title" alt="Alt text" src="/img/persona2-publico-alvo.png"> 
 
 ## Referências
 Circuito das Águas de Minas Gerais. Viagem em família: tutores buscam locais onde seus pets são bem recebidos. **g1**, 19 de dez. 2022. Especial Publicitário. Disponível em: 
