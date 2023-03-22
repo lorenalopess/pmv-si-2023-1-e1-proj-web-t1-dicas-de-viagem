@@ -54,5 +54,4 @@ OLIVEIRA, Jéssica. Turismo investe para atender e mimar animais de estimação.
 
 SALGADO, Danielle. Mercado de pets no Brasil: pesquisa mostra dados exclusivos. **Opinion Box**, 26 de dez. 2022. Blog. Disponível em: https://blog.opinionbox.com/pesquisa-dados-mercado-de-pets-no-brasil/. Acesso em: 17 mar. 2023.
 
-Brasileiros dão mais importância a destinos e acomodações pet friendly do que média global de viajante. **Booking.com**, 05 de jul. 2022. Notícias. Disponível em: news.booking.com/pt-br/brasileiros-do-mais-importancia-a-destinos-e-acomodacoes-pet-friendly-do-que-media-global-de-viajantes-revela-bookingcom/
-
+Brasileiros dão mais importância a destinos e acomodações pet friendly do que média global de viajante. **Booking.com**, 05 de jul. 2022. Notícias. Disponível em: news.booking.com/pt-br/brasileiros-do-mais-importancia-a-destinos-e-acomodacoes-pet-friendly-do-que-media-global-de-viajantes-revela-bookingcom/. Acesso em: 19 mar. 2023.
