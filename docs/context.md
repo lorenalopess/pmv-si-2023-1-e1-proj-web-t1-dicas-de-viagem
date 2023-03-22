@@ -39,7 +39,7 @@ Espera-se que a página web proposta neste projeto esclareça dúvidas e forneç
 
 ## Público-Alvo
 
-Homens e mulheres entre 30 e 45 anos, que residem na região sudeste do país, que tenham algum animal de estimação e que queiram viajar com eles para lugares turísticos em Minas Gerais que sejam Pet friendly.
+Pessoas entre 20 e 60 anos, que residem majoritariamente na região sudeste do país, que tenham algum animal de estimação e que queiram viajar com eles para lugares turísticos em Minas Gerais que sejam Pet friendly.
 
 <img src="./img/persona1-publico-alvo.png" align="center"></img>
 <img src="./img/persona2-publico-alvo.png" align="center"></img>
