@@ -32,7 +32,7 @@ Desenvolver um site que contenha informações sobre regras e cuidados que os tu
 A solução proposta neste projeto visa disponibilizar informações, indicações de hospedagens e formas de viajar com pet, por meio de um site. 
 O projeto mostra-se eficaz, uma vez que houve um aumento de 30% no número de pets em lares brasileiros, segundo a pesquisa Radar Pet 2021.
 
-Além disso em 2022 uma pesquisa realizada pelo Booking.com, revelou o quão importante é, para os brasileiros, que os destinos e acomodações recebam bem seus animais de estimação. 
+Além disso em 2022 uma pesquisa realizada pelo Booking.com, revelou o quanto é importante para os brasileiros, que os destinos e acomodações recebam bem seus animais de estimação. 
 Os resultados mostram que um dos fatores que influencia 46% dos viajantes do país na escolha por um destino de férias é se o local é pet friendly, um número parecido de brasileiros 43% disse que, em suas próximas viagens, gostaria de reservar uma acomodação que seus pets sejam aceitos e bem recebidos.
 
 Espera-se que a página web proposta neste projeto esclareça duvidas e promova informações relevantes para quem viaja ou tem o desejo de viajar na companhia de seu animal de estimação, com conforto e segurança. 
