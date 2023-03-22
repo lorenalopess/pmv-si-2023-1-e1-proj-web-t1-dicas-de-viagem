@@ -41,8 +41,8 @@ Espera-se que a página web proposta neste projeto esclareça dúvidas e forneç
 
 Homens e mulheres entre 30 e 45 anos, que residem na região sudeste do país, que tenham algum animal de estimação e que queiram viajar com eles para lugares turísticos em Minas Gerais que sejam Pet friendly.
 
-![persona](persona1-publico-alvo.png "Persona")
-![persona](persona2-publico-alvo.png "Persona")
+![persona](docs\img\persona1-publico-alvo.png "Persona")
+![persona](docs\img\persona2-publico-alvo.png"Persona")
 
 ## Referências
 Circuito das Águas de Minas Gerais. Viagem em família: tutores buscam locais onde seus pets são bem recebidos. **g1**, 19 de dez. 2022. Especial Publicitário. Disponível em: 
