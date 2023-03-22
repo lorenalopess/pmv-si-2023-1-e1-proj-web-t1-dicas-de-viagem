@@ -29,25 +29,17 @@ Desenvolver um site que contenha informações sobre regras e cuidados que os tu
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A solução proposta neste projeto visa disponibilizar informações, indicações de hospedagens e formas de viajar com pet, por meio de um site. 
+O projeto mostra-se eficaz, uma vez que houve um aumento de 30% no número de pets em lares brasileiros, segundo a pesquisa Radar Pet 2021.
+Além disso em 2022 uma pesquisa realizada pelo Booking.com, revelou o quão importante é, para os brasileiros, que os destinos e acomodações recebam bem seus animais de estimação. 
+Os resultados mostram que um dos fatores que influencia 46% dos viajantes do país na escolha por um destino de férias é se o local é pet friendly, um número parecido de brasileiros 43% disse que, em suas próximas viagens, gostaria de reservar uma acomodação que seus pets sejam aceitos e bem recebidos.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Espera-se que a página web proposta neste projeto esclareça duvidas e promova informações relevantes para quem viaja ou tem o desejo de viajar na companhia de seu animal de estimação, com conforto e segurança. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Pessoas de todos os gêneros e idades que queiram conhecer lugares e se hospedar, no estado de Minas Gerais levando os seus pets. 
 
 ## Referências
 Circuito das Águas de Minas Gerais. Viagem em família: tutores buscam locais onde seus pets são bem recebidos. **g1**, 19 de dez. 2022. Especial Publicitário. Disponível em: 
@@ -60,3 +52,6 @@ NÚMERO de pets nos lares brasileiros cresce 30% durante a pandemia: Segundo a p
 OLIVEIRA, Jéssica. Turismo investe para atender e mimar animais de estimação. **Propmark**, 26 de set. 2021. Notícias. Disponível em: https://propmark.com.br/turismo-investe-para-atender-e-mimar-animais-de-estimacao/. Acesso em: 16 mar. 2023.
 
 SALGADO, Danielle. Mercado de pets no Brasil: pesquisa mostra dados exclusivos. **Opinion Box**, 26 de dez. 2022. Blog. Disponível em: https://blog.opinionbox.com/pesquisa-dados-mercado-de-pets-no-brasil/. Acesso em: 17 mar. 2023.
+
+Brasileiros dão mais importância a destinos e acomodações pet friendly do que média global de viajante. **Booking.com**, 05 de jul. 2022. Notícias. Disponível em: news.booking.com/pt-br/brasileiros-do-mais-importancia-a-destinos-e-acomodacoes-pet-friendly-do-que-media-global-de-viajantes-revela-bookingcom/
+
