@@ -29,13 +29,9 @@ Desenvolver um site que contenha informações sobre regras e cuidados que os tu
 
 ## Justificativa
 
-A solução proposta neste projeto tem como objetivo disponibilizar informações sobre indicações de hospedagens e formas de viajar com pets por meio de um site. O projeto é uma resposta eficaz ao aumento de 30% no número de pets em lares brasileiros, de acordo com a pesquisa Radar Pet 2021.
+Espera-se que a página web proposta neste projeto esclareça dúvidas e forneça informações relevantes para aqueles que viajam ou desejam viajar com seus animais de estimação, garantindo conforto e segurança durante a viagem.
 
-Além disso em 2022 uma pesquisa realizada pelo Booking.com, revelou o quanto é importante para os brasileiros, que os destinos e acomodações recebam bem seus animais de estimação. 
-Os resultados mostram que um dos fatores que influencia 46% dos viajantes do país na escolha por um destino de férias é se o local é pet friendly, um número parecido de brasileiros 43% disse que, em suas próximas viagens, gostaria de reservar uma acomodação que seus pets sejam aceitos e bem recebidos.
-
-Espera-se que a página web proposta neste projeto esclareça dúvidas e forneça informações relevantes para aqueles que viajam ou desejam viajar com seus animais de estimação, garantindo conforto e segurança durante a viagem. 
-
+Uma pesquisa realizada pelo Booking.com em 2022, revelou o quanto é importante para os brasileiros, que os destinos e acomodações recebam bem seus animais de estimação. Os resultados mostram que um dos fatores que influencia 46% dos viajantes do país na escolha por um destino de férias é se o local é pet friendly, um número parecido de brasileiros 43% disse que, em suas próximas viagens, gostaria de reservar uma acomodação que seus pets sejam aceitos e bem recebidos.
 
 ## Público-Alvo
 
@@ -55,6 +51,10 @@ NÚMERO de pets nos lares brasileiros cresce 30% durante a pandemia: Segundo a p
 OLIVEIRA, Jéssica. Turismo investe para atender e mimar animais de estimação. **Propmark**, 26 de set. 2021. Notícias. Disponível em: https://propmark.com.br/turismo-investe-para-atender-e-mimar-animais-de-estimacao/. Acesso em: 16 mar. 2023.
 
 SALGADO, Danielle. Mercado de pets no Brasil: pesquisa mostra dados exclusivos. **Opinion Box**, 26 de dez. 2022. Blog. Disponível em: https://blog.opinionbox.com/pesquisa-dados-mercado-de-pets-no-brasil/. Acesso em: 17 mar. 2023.
+
+Brasileiros dão mais importância a destinos e acomodações pet friendly do que média global de viajante. **Booking.com**, 05 de jul. 2022. Notícias. Disponível em: https://news.booking.com/pt-br/brasileiros-do-mais-importancia-a-destinos-e-acomodacoes-pet-friendly-do-que-media-global-de-viajantes-revela-bookingcom/. Acesso em: 19 mar. 2023.
+
+CEZARIO, PB Conheça as características e o perfil dos novos pais de animais de estimação do Brasil . Disponível em: https://revistacasaejardim.globo.com/Casa-e-Jardim/Dicas/Pets/noticia/2021/08/conheca-caracteristicas-eo-perfil-dos-novos-pais-de-pets-do- brasil.html. Acesso em: 22 mar. 2023.
 
 Brasileiros dão mais importância a destinos e acomodações pet friendly do que média global de viajante. **Booking.com**, 05 de jul. 2022. Notícias. Disponível em: https://news.booking.com/pt-br/brasileiros-do-mais-importancia-a-destinos-e-acomodacoes-pet-friendly-do-que-media-global-de-viajantes-revela-bookingcom/. Acesso em: 19 mar. 2023.
 
