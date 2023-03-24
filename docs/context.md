@@ -33,6 +33,7 @@ Espera-se que a página web proposta neste projeto esclareça dúvidas e forneç
 
 Uma pesquisa realizada pelo Booking.com em 2022, revelou o quanto é importante para os brasileiros que os destinos e acomodações recebam bem seus animais de estimação. Os resultados mostram que um dos fatores que influencia 46% dos viajantes do país na escolha por um destino de férias, é se o local é pet friendly, esperamos que esse site seja capaz de proporcionar aos tutores facilidade em programar o destino da viagem sem ter que deixar um importante membro da família para trás, e que as acomodações pet friendly tenham mais visibilidade.
 
+
 ## Público-Alvo
 
 Pessoas entre 20 e 60 anos, que residem majoritariamente na região sudeste do país, que tenham algum animal de estimação e que queiram viajar com eles para lugares turísticos em Minas Gerais que sejam Pet friendly.
