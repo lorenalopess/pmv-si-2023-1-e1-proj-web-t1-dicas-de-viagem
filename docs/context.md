@@ -18,7 +18,7 @@ Por isso, muitos tutores decidem levar seus pets nas viagens. O site de reservas
 ## Objetivos
 
 ### Objetivo principal:
-Desenvolver um site que contenha informações sobre regras e cuidados que os tutores devem ter ao viajar com seus animais de estimação, e dicas de locais em Minas Gerais com hospedagens *pet friendly*. Garantindo, assim, que os tutores não tenham facilidade em programar o destino da viagem sem ter que deixar um importante membro da família para trás.
+Desenvolver um site que contenha informações sobre regras e cuidados que os tutores devem ter ao viajar com seus animais de estimação, e dicas de locais em Minas Gerais com hospedagens *pet friendly*.
 
 ### Objetivos específicos:
 -	Identificar e coletar informações sobre regras de viagem com pets em companhias aéreas, de ônibus e traslado em carro particular;
