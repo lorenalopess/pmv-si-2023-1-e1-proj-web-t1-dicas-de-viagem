@@ -33,7 +33,7 @@ Espera-se que a página web proposta neste projeto esclareça dúvidas e forneç
 
 Em 2022 o Booking.com fez uma pesquisa e revelou o quanto é importante para os brasileiros que os destinos e acomodações recebam bem seus animais de estimação. 
 Os resultados mostram que um dos fatores que influencia 46% dos viajantes do país na escolha por um destino de férias, é se o local é pet friendly, queremos que esse site seja capaz de proporcionar aos tutores facilidade em programar o destino da viagem encontrando uma excelente acomodação, para que tenha boas experiencias na companhia de seu pet. 
-Diante dessa demanda esperamos proporcionar mais visibilidade para as acomodações pet friendly.
+<br> Diante dessa demanda esperamos proporcionar mais visibilidade para as acomodações pet friendly.<br/> 
 
 ## Público-Alvo
 
