@@ -31,7 +31,7 @@ Desenvolver um site que contenha informações sobre regras e cuidados que os tu
 
 Espera-se que a página web proposta neste projeto esclareça dúvidas e forneça informações relevantes para aqueles que viajam ou desejam viajar com seus animais de estimação, garantindo conforto e segurança durante a viagem.
 
-Uma pesquisa realizada pelo Booking.com em 2022, revelou o quanto é importante para os brasileiros, que os destinos e acomodações recebam bem seus animais de estimação. Os resultados mostram que um dos fatores que influencia 46% dos viajantes do país na escolha por um destino de férias é se o local é pet friendly, um número parecido de brasileiros 43% disse que, em suas próximas viagens, gostaria de reservar uma acomodação que seus pets sejam aceitos e bem recebidos.
+Uma pesquisa realizada pelo Booking.com em 2022, revelou o quanto é importante para os brasileiros que os destinos e acomodações recebam bem seus animais de estimação. Os resultados mostram que um dos fatores que influencia 46% dos viajantes do país na escolha por um destino de férias, é se o local é pet friendly, esperamos que esse site seja capaz de proporcionar aos tutores facilidade em programar o destino da viagem sem ter que deixar um importante membro da família para trás, e que as acomodações pet friendly tenham mais visibilidade.
 
 ## Público-Alvo
 
