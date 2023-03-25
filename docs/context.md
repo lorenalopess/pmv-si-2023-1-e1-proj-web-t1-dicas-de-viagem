@@ -56,8 +56,6 @@ SALGADO, Danielle. Mercado de pets no Brasil: pesquisa mostra dados exclusivos. 
 
 Brasileiros dão mais importância a destinos e acomodações pet friendly do que média global de viajante. **Booking.com**, 05 de jul. 2022. Notícias. Disponível em: https://news.booking.com/pt-br/brasileiros-do-mais-importancia-a-destinos-e-acomodacoes-pet-friendly-do-que-media-global-de-viajantes-revela-bookingcom/. Acesso em: 19 mar. 2023.
 
-CEZARIO, PB Conheça as características e o perfil dos novos pais de animais de estimação do Brasil . Disponível em: https://revistacasaejardim.globo.com/Casa-e-Jardim/Dicas/Pets/noticia/2021/08/conheca-caracteristicas-eo-perfil-dos-novos-pais-de-pets-do- brasil.html. Acesso em: 22 mar. 2023.
-
 Brasileiros dão mais importância a destinos e acomodações pet friendly do que média global de viajante. **Booking.com**, 05 de jul. 2022. Notícias. Disponível em: https://news.booking.com/pt-br/brasileiros-do-mais-importancia-a-destinos-e-acomodacoes-pet-friendly-do-que-media-global-de-viajantes-revela-bookingcom/. Acesso em: 19 mar. 2023.
 
 CEZARIO, PB Conheça as características e o perfil dos novos pais de animais de estimação do Brasil . Disponível em: https://revistacasaejardim.globo.com/Casa-e-Jardim/Dicas/Pets/noticia/2021/08/conheca-caracteristicas-eo-perfil-dos-novos-pais-de-pets-do- brasil.html. Acesso em: 22 mar. 2023.
