@@ -39,13 +39,13 @@ Os resultados mostram que um dos fatores que influencia 46% dos viajantes do pa�
 
 Neste projeto faz-se necessário a definição de dois públicos alvos, sendo eles:
 
-Primeiro publico alvo:
+### Primeiro publico alvo:
 
-    Pessoas entre 20 e 60 anos, que residem majoritariamente na região sudeste do país, que tenham algum animal de estimação e que queiram viajar com eles para lugares turísticos em Minas Gerais que sejam Pet friendly.
+   -	 Pessoas entre 20 e 60 anos, que residem majoritariamente na região sudeste do país, que tenham algum animal de estimação e que queiram viajar com eles para lugares turísticos em Minas Gerais que sejam Pet friendly.
 
-Segundo Publico Alvo:
+### Segundo Publico Alvo:
 
-    Proprietários do setor de serviços, como hotéis, pousadas, bares e restaurantes, que residam em minas gerais e que sejam pet friendly.
+   -	 Proprietários do setor de serviços, como hotéis, pousadas, bares e restaurantes, que residam em minas gerais e que sejam pet friendly.
 
 ## Referências
 Circuito das Águas de Minas Gerais. Viagem em família: tutores buscam locais onde seus pets são bem recebidos. **g1**, 19 de dez. 2022. Especial Publicitário. Disponível em: 
