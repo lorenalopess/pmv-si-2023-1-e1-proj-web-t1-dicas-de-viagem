@@ -45,7 +45,7 @@ Neste projeto faz-se necessário a definição de dois públicos alvos, sendo el
 
 ### Segundo Público Alvo:
 
--	Proprietários do setor de serviços, como hotéis, pousadas, bares e restaurantes, que residam em minas gerais e que sejam pet friendly.
+-	Proprietários de estabelecimentos localizados em Minas Gerais do setor de serviços, como hotéis, pousadas, bares e restaurantes, que sejam pet friendly e tenham interesse em promover seu comércio.
 
 ## Referências
 Circuito das Águas de Minas Gerais. Viagem em família: tutores buscam locais onde seus pets são bem recebidos. **g1**, 19 de dez. 2022. Especial Publicitário. Disponível em: 
