@@ -25,9 +25,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Disponibilizar regras atualizadas de viagem de onibus com pet  | ALTA |  |
-|RF-002| Disponibilizar campo para consulta e comentario de feedback de hospedaem  | MÉDIA | |
-
+|RF-001| A pagina web deve fornecer acesso às regras de viagens de ônibus para os usuários que possuem um pet | ALTA |  |
+|RF-002| A pagina web deve exibir informações relevantes sobre regras de viagens de ônibus com pet, como limites de tamanho, tarifas e documentos necessários | MÉDIA | |
+|RF-003| A pagina web deve fornecer acesso aos feedbacks de outros usuários sobre acomodações pet friendly | ALTA |  |
+|RF-004| A pagina web deve exibir as informações relevantes sobre as acomodações, como comodidades para pets e preço | ALTA |  |
 
 ### Requisitos não Funcionais
 
