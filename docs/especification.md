@@ -30,6 +30,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Permitir que o usuario forneça feedbacks sobre acomodações pet friendly | ALTA |  |
 |RF-004| Permitir que o usuario tenha acesso as informações relevantes sobre as acomodações, como comodidades para pets e preço | ALTA |  |
 
+
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
