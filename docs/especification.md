@@ -15,7 +15,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Tutor de pet        |Acessar regras de viagens de ônibus com pet | Viajar de ônibus com meu pet |
-|Viajante        | Acessar feedback de hospedes | me basear e escolher uma acomodação pet friendly |
+|Viajante        | Acessar feedback de hospedes | Me basear e escolher uma acomodação pet friendly |
 
 ## Requisitos
 
