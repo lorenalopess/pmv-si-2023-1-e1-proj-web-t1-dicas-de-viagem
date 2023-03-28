@@ -8,13 +8,17 @@
 
 2.
 
+
 3.
+
 
 ### Segundo público-alvo
 
 1.
 
+
 2.
+
 
 ## Histórias de Usuários
 
@@ -32,8 +36,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | Responsável |
-|------|-----------------------------------------|----| ----|
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
 |RF-001| Disponibilizar área com informações com regras de viagem de avião com pet | ALTA |  |
 |RF-002| Disponibilizar área com informações com regras de viagem de trem com pet | ALTA |  |
 |RF-003| Disponibilizar área com informações com regras de viagem de ônibus com pet | ALTA |  |
