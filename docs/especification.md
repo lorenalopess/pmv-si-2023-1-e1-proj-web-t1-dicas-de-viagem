@@ -24,7 +24,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
-|------|-----------------------------------------|----| ----|
+|------|-----------------------------------------|---|---|
 |RF-001| Permitir que o usuario tenha acesso às informações relevantes sobre regras de viagens de ônibus com pet, como limites de tamanho, tarifas e documentos necessários | Alta | |
 |RF-002| Permitir que o usuario tenha acesso a feedbacks sobre acomodações pet friendly | ALTA |  |
 |RF-003| Permitir que o usuario forneça feedbacks sobre acomodações pet friendly | ALTA |  |
