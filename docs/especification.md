@@ -61,6 +61,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----| ----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
+|RF-001| Disponibilizar área com informações com regras de viagem de avião com pet | ALTA |  |
+|RF-002| Disponibilizar área com informações com regras de viagem de trem com pet | ALTA |  |
+|RF-003| Disponibilizar área com informações com regras de viagem de ônibus com pet | ALTA |  |
+|RF-004| Disponibilizar área com informações com regras de viagem de carro com pet | ALTA |  |
+|RF-005| Disponibilizar área com informações de hospedagens *pet friendly* em Minas Gerais | ALTA |  |
+|RF-006| Disponibilizar área com informações de estabelecimentos comerciais privados *pet friendly* em Minas Gerais | ALTA |  |
+|RF-007| Disponibilizar funcionalidade que permita pesquisar hospedagens *pet friendly* em Minas Gerais | MÉDIA |  |
+|RF-008| Disponibilizar funcionalidade que permita pesquisar estabelecimentos comerciais privados *pet friendly* em Minas Gerais | MÉDIA |  |
+|RF-009| Disponibilizar página em que o usuário poderá inserir depoimentos sobre as hospedagens *pet friendly* em Minas Gerais | BAIXA |  |
+|RF-010| Disponibilizar página em que o usuário poderá inserir depoimentos sobre os estabelecimentos comerciais privados *pet friendly* em Minas Gerais | BAIXA |  |
+|RF-011| Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimentos | BAIXA |  |
+|RF-012|Criar funcionalidade para curtir e comentar os depoimentos	| BAIXA |  |
+|RF-001| Permitir que o usuário acesse informações sobre regras de viagens de ônibus com pet, como limites de tamanho, tarifas e documentos necessários | ALTA | |
+|RF-002| Permitir que o usuário tenha acesso a feedbacks sobre acomodações pet friendly | ALTA |  |
+|RF-003| Permitir que o usuário forneça feedbacks sobre acomodações pet friendly | ALTA |  |
+|RF-004| Permitir que o usuário tenha acesso as informações relevantes sobre as acomodações, como comodidades para pets e preço | ALTA |  |
 
 
 ### Requisitos não Funcionais
@@ -69,6 +85,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet	 | ALTA | 
+|RNF-002| Disponibilidade de adaptação da interface pró acessibilidade	| MÉDIA | 
+|RNF-003| A página deverá ter disponibilidade em 90% do tempo	 |  BAIXA | 
+|RNF-004| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -93,7 +113,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
+|01| O projeto deverá ser entregue até o final do semestre, não podendo extrapolar a data de 12/07/2023 |
+|02| Não pode ser desenvolvido um módulo de BackEnd        |
+|03| A abrangência do projeto limita-se à Minas Gerais     |
+|04| FrontEnd desenvolvido em HTML, CSS e JavaScript       |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
