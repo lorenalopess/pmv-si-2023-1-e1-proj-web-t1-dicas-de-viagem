@@ -38,18 +38,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Disponibilizar área com informações com regras de viagem de avião com pet | ALTA |  |
-|RF-002| Disponibilizar área com informações com regras de viagem de trem com pet | ALTA |  |
-|RF-003| Disponibilizar área com informações com regras de viagem de ônibus com pet | ALTA |  |
-|RF-004| Disponibilizar área com informações com regras de viagem de carro com pet | ALTA |  |
-|RF-005| Disponibilizar área com informações de hospedagens *pet friendly* em Minas Gerais | ALTA |  |
-|RF-006| Disponibilizar área com informações de estabelecimentos comerciais privados *pet friendly* em Minas Gerais | ALTA |  |
-|RF-007| Disponibilizar funcionalidade que permita pesquisar hospedagens *pet friendly* em Minas Gerais | MÉDIA |  |
-|RF-008| Disponibilizar funcionalidade que permita pesquisar estabelecimentos comerciais privados *pet friendly* em Minas Gerais | MÉDIA |  |
-|RF-009| Disponibilizar página em que o usuário poderá inserir depoimentos sobre as hospedagens *pet friendly* em Minas Gerais | BAIXA |  |
-|RF-010| Disponibilizar página em que o usuário poderá inserir depoimentos sobre os estabelecimentos comerciais privados *pet friendly* em Minas Gerais | BAIXA |  |
-|RF-011| Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimentos | BAIXA |  |
-|RF-012|Criar funcionalidade para curtir e comentar os depoimentos	| BAIXA |  |
+|RF-001| Disponibilizar área com informações com regras de viagem de avião com pet | ALTA |  
+|RF-002| Disponibilizar área com informações com regras de viagem de trem com pet | ALTA |  
+|RF-003| Disponibilizar área com informações com regras de viagem de ônibus com pet | ALTA |  
+|RF-004| Disponibilizar área com informações com regras de viagem de carro com pet | ALTA |  
+|RF-005| Disponibilizar área com informações de hospedagens *pet friendly* em Minas Gerais | ALTA |  
+|RF-006| Disponibilizar área com informações de estabelecimentos comerciais privados *pet friendly* em Minas Gerais | ALTA |  
+|RF-007| Disponibilizar funcionalidade que permita pesquisar hospedagens *pet friendly* em Minas Gerais | MÉDIA |  
+|RF-008| Disponibilizar funcionalidade que permita pesquisar estabelecimentos comerciais privados *pet friendly* em Minas Gerais | MÉDIA |  
+|RF-009| Disponibilizar página em que o usuário poderá inserir depoimentos sobre as hospedagens *pet friendly* em Minas Gerais | BAIXA |  
+|RF-010| Disponibilizar página em que o usuário poderá inserir depoimentos sobre os estabelecimentos comerciais privados *pet friendly* em Minas Gerais | BAIXA |  
+|RF-011| Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimentos | BAIXA |  
+|RF-012|Criar funcionalidade para curtir e comentar os depoimentos	| BAIXA |  
 
 
 ### Requisitos não Funcionais
