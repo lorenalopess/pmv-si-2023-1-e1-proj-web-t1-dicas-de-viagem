@@ -16,7 +16,7 @@
 ### Segundo público-alvo
 
 
-1.
+1. José Alfredo tem 45 anos e reside em Mariana, MG, empresário dono de um estabelecimento onde de dia funciona como um restaurante e a noite como bar. Começou a empreender cedo, se considera uma pessoa determinada e focada, tem como meta dar mais visibilidade aos seus empreendimentos. É uma pessoa ativa na causa animal e defende a teoria do bem-estar, onde revela como os animais lidam com as condições em que vivem. Um animal está em boa saúde quando é bem nutrido, seguro, capaz de expressar um comportamento inato e não sofre de condições desagradáveis, como dor, pavor e angústia. Baseado em suas motivações pessoais, decidiu transformar seu estabelecimento em uma área comum em que tutores e animais possam desfrutar e se divertir de um local onde todos são aceitos.
 
 
 2.  Vitor Santos 42 anos, empresário, casado, tem um 1 filho que faz faculdade em outra cidade. É dono e administra pousada em Poços de Caldas - MG que, durante a pandemia, teve problemas financeiros, com o retorno as atividades conseguiu manter a pousada aberta. Sempre teve animais em casa desde pequeno, atualmente, possui um gato mestiço, Mingau, que faz companhia no seu dia a dia, por vezes fica na pousada. Tem buscado divulgar seu estabelecimento para pessoas que possuam animais pois considera um diferencial quando comparado com seus concorrentes.
@@ -36,6 +36,9 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Viajante        | Acessar feedback de hóspedes | Me basear e escolher uma acomodação *pet friendly* |
 |Proprietário de hospedagem | Quero disponibilizar dados sobre minha hospedagem *pet-friendly* com foco no trato dos pets | Divulgar estabelecimento e atrair clientes |
 |Proprietário de hospedagem | Quero disponibilizar fotos do estabelecimento com animais dos clientes | Divulgar estabelecimento |
+|Proprietário de Estabelecimento | Cadastrar meu estabelecimento no site |  Divulgar estabelecimento |
+|Proprietário de Estabelecimento | Quero disponibilizar fotos do estabelecimento com animais dos clientes |  CLientes visualizar como são as acomodações |
+|Proprietário de Estabelecimento  | Quero disponibilizar dados sobre minha hospedagem *pet-friendly* com foco no trato dos pets | Divulgar a reputação do estabelecimento e atrair clientes |
 
 
 ## Requisitos
@@ -69,9 +72,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet	 | ALTA | 
-|RNF-002| Disponibilidade de adaptação da interface pró acessibilidade	| MÉDIA | 
-|RNF-003| A página deverá ter disponibilidade em 90% do tempo	 |  BAIXA | 
-|RNF-004| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| O sistema deve ser confiável e atender aos requisitos do usuário. |  ALTA |
+|RNF-003| Disponibilidade de adaptação da interface pró acessibilidade	| MÉDIA | 
+|RNF-004| A página deverá ter disponibilidade em 90% do tempo	 |  BAIXA | 
+|RNF-005| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 ## Restrições
 
