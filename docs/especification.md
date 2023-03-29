@@ -1,9 +1,5 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
 ### Primeiro público-alvo
@@ -19,6 +15,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ### Segundo público-alvo
 
+
 1.
 
 
@@ -27,7 +24,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
@@ -36,6 +33,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Tutor de pet | Conhecer estabelecimentos comerciais privados em Minas Gerais que sejam *pet friendly* | Conseguir passear com meu pet durante a viagem |
 |Tutor de pet        |Acessar regras de viagens de ônibus com pet | Viajar de ônibus com meu pet |
 |Viajante        | Acessar feedback de hospedes | Me basear e escolher uma acomodação pet friendly |
+
 
 ## Requisitos
 
@@ -47,7 +45,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Disponibilizar área com informações com regras de viagem de avião com pet | ALTA |  
 |RF-002| Disponibilizar área com informações com regras de viagem de trem com pet | ALTA |  
-|RF-003| Disponibilizar área com informações com regras de viagens de ônibus com pet, como limites de tamanho, tarifas e documentos necessários | ALTA | |  
+|RF-003| Disponibilizar área com informações com regras de viagens de ônibus com pet, como limites de tamanho, tarifas e documentos necessários | ALTA | | 
+|RF-003| Disponibilizar área com informações com regras de viagem de ônibus com pet | ALTA |  
 |RF-004| Disponibilizar área com informações com regras de viagem de carro com pet | ALTA |  
 |RF-005| Disponibilizar área com informações de hospedagens *pet friendly* em Minas Gerais | ALTA |  
 |RF-006| Disponibilizar área com informações de estabelecimentos comerciais privados *pet friendly* em Minas Gerais | ALTA |  
@@ -63,23 +62,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet	 | ALTA | 
+|RNF-002| Disponibilidade de adaptação da interface pró acessibilidade	| MÉDIA | 
+|RNF-003| A página deverá ter disponibilidade em 90% do tempo	 |  BAIXA | 
+|RNF-004| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 ## Restrições
 
@@ -87,12 +73,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| O projeto deverá ser entregue até o final do semestre, não podendo extrapolar a data de 12/07/2023 |
+|02| Não pode ser desenvolvido um módulo de BackEnd        |
+|03| A abrangência do projeto limita-se à Minas Gerais     |
+|04| FrontEnd desenvolvido em HTML, CSS e JavaScript       |
