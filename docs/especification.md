@@ -8,10 +8,7 @@
 
 2. Leandro Silva tem 45 anos e é marceneiro. Ele trabalha em uma fábrica de móveis planejados e mora no interior de São Paulo com seu cachorro Thor, um vira-lata brincalhão que adotou há 7 anos. Solteiro, é uma pessoa tranquila e dedicada, que gosta de passar seu tempo livre tocando violão ou fazendo caminhadas com Thor. Leandro tem muita vontade de viajar para conhecer algumas cachoeiras em Minas Gerais e não abre mão da companhia de seu melhor amigo nessa aventura. No entanto, ele não possui carteira de motorista e tem muito medo de voar de avião, o que o leva a considerar a opção de viajar de ônibus, Leandro está com dificuldades para acessar informações e regras para viajar de ônibus com seu cachorro. Além disso, ele gostaria de ter acesso ao feedback de outros hóspedes para garantir que fez uma boa escolha de acomodação pet friendly.
 
-
-3.
-
-
+3. Mariana tem 25 anos, trabalha como CLT, é programadora, formada em Sistemas de Informação, e mora com a sua cachorrinha Mel em um apartamento em Belo Horizonte/MG. Mariana resgatou Mel da rua quando ela ainda era filhote. Hoje, Mel tem hoje 5 anos, e acabou de terminar o seu adestramento profissional, no qual aprendeu a se socializar corretamente. Por isso, Mariana tem visitado vários locais públicos pet-friendly em Belo Horizonte para "testar" o adestramento. Como Mel tem se comportado muito bem, Mariana decidiu que quer viajar de carro com seu pet em Minas Gerais, porém não sabe quais regras deve seguir. Além disso, ela tem tido dificuldade em encontrar um local onde pudesse pesquisar sobre hospedagens e locais públicos pet-friendly para ir com seu pet durante a viagem. 
 
 ### Segundo público-alvo
 
@@ -29,7 +26,9 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Tutor de pet | Ter acesso às regras de viagem de avião com pet | Viajar de avião com meu pet |
 |Tutor de pet | Localizar hospedagens *pet friendly* em Minas Gerais | Vijar com meu pet para destinos mineiros |
 |Tutor de pet | Conhecer estabelecimentos comerciais privados em Minas Gerais que sejam *pet friendly* | Conseguir passear com meu pet durante a viagem |
+|Tutor de pet | Conhecer locais públicos em Minas Gerais que sejam *pet friendly* | Conseguir passear com meu pet durante a viagem |
 |Tutor de pet        |Acessar regras de viagens de ônibus com pet | Viajar de ônibus com meu pet |
+|Tutor de pet        |Acessar regras de viagens de carro com pet | Viajar de carro com meu pet |
 |Viajante        | Acessar feedback de hóspedes | Me basear e escolher uma acomodação *pet friendly* |
 |Proprietário de hospedagem | Quero disponibilizar dados sobre minha hospedagem *pet-friendly* com foco no trato dos pets | Divulgar estabelecimento e atrair clientes |
 |Proprietário de hospedagem | Quero disponibilizar fotos do estabelecimento com animais dos clientes | Divulgar estabelecimento |
@@ -51,17 +50,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Disponibilizar área com informações com regras de viagem de carro com pet | ALTA |  
 |RF-005| Disponibilizar área com informações de hospedagens *pet friendly* em Minas Gerais | ALTA |  
 |RF-006| Disponibilizar área com informações de estabelecimentos comerciais privados *pet friendly* em Minas Gerais | ALTA | 
-|RF-007| Disponibilizar página de hospegagens com informações com regras para hospedagem de pets | ALTA |
-|RF-008| Disponibilizar página com imagens e texto sobre hospedagens específicas | ALTA | 
-|RF-009| Disponibilizar funcionalidade que permita pesquisar hospedagens *pet friendly* em Minas Gerais | MÉDIA |  
-|RF-010| Disponibilizar funcionalidade que permita pesquisar estabelecimentos comerciais privados *pet friendly* em Minas Gerais | MÉDIA |  
-|RF-011| Disponibilizar página em que o usuário poderá inserir depoimentos sobre os estabelecimentos comerciais privados *pet friendly* em Minas Gerais | BAIXA |
-|RF-012| Disponibilizar página em que o usuário poderá consultar depoimentos/feedback sobre as hospedagens *pet friendly* em Minas Gerais | BAIXA |
-|RF-013| Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimentos | BAIXA |  
-|RF-014| Criar funcionalidade para curtir e comentar os depoimentos	| BAIXA |  
-|RF-015| Disponibilizar área para login de pessoa jurÍdica para manutenção de página | BAIXA |
-|RF-016| Disponibilizar formulário para inserção/alteração de texto sobre hospedagem | BAIXA |
-|RF-017| Disponibilizar formulário para inserção/alteração de imagem sobre hospedagem | BAIXA |
+|RF-007| Disponibilizar área com informações de locais públicos *pet friendly* em Minas Gerais | ALTA | 
+|RF-008| Disponibilizar página de hospegagens com informações com regras para hospedagem de pets | ALTA |
+|RF-009| Disponibilizar página com imagens e texto sobre hospedagens específicas | ALTA | 
+|RF-010| Disponibilizar funcionalidade que permita pesquisar hospedagens *pet friendly* em Minas Gerais | MÉDIA |  
+|RF-011| Disponibilizar funcionalidade que permita pesquisar estabelecimentos comerciais privados *pet friendly* em Minas Gerais | MÉDIA |  
+|RF-012| Disponibilizar página em que o usuário poderá inserir depoimentos sobre os estabelecimentos comerciais privados *pet friendly* em Minas Gerais | BAIXA |
+|RF-013| Disponibilizar página em que o usuário poderá consultar depoimentos/feedback sobre as hospedagens *pet friendly* em Minas Gerais | BAIXA |
+|RF-014| Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimentos | BAIXA |  
+|RF-015| Criar funcionalidade para curtir e comentar os depoimentos	| BAIXA |  
+|RF-016| Disponibilizar área para login de pessoa jurÍdica para manutenção de página | BAIXA |
+|RF-017| Disponibilizar formulário para inserção/alteração de texto sobre hospedagem | BAIXA |
+|RF-018| Disponibilizar formulário para inserção/alteração de imagem sobre hospedagem | BAIXA |
 
 ### Requisitos não Funcionais
 
