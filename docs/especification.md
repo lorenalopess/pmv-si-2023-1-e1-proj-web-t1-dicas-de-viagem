@@ -26,10 +26,10 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Tutor de pet | Ter acesso às regras de viagem de avião com pet | Viajar de avião com meu pet |
 |Tutor de pet | Localizar hospedagens *pet friendly* em Minas Gerais | Vijar com meu pet para destinos mineiros |
 |Tutor de pet | Conhecer estabelecimentos comerciais privados em Minas Gerais que sejam *pet friendly* | Conseguir passear com meu pet durante a viagem |
-|Tutor de pet | Conhecer locais públicos em Minas Gerais que sejam *pet friendly* | Conseguir passear com meu pet durante a viagem |
-|Tutor de pet        |Acessar regras de viagens de ônibus com pet | Viajar de ônibus com meu pet |
-|Tutor de pet        |Acessar regras de viagens de carro com pet | Viajar de carro com meu pet |
-|Viajante        | Acessar feedback de hóspedes | Me basear e escolher uma acomodação *pet friendly* |
+|Viajante e tutor de pet | Acessar regras de viagens de ônibus com pet | Viajar de ônibus com meu pet |
+|Viajante e tutor de pet | Acessar comentários e feedback de outros hóspedes | Me basear e escolher uma acomodação *pet friendly* |
+|Tutor de pet | Conhecer locais públicos em Minas Gerais que sejam pet friendly | Conseguir passear com meu pet durante a viagem |
+|tutor de pet |Acessar regras de viagens de carro com pet | Viajar de carro com meu pet 
 |Proprietário de hospedagem | Quero disponibilizar dados sobre minha hospedagem *pet-friendly* com foco no trato dos pets | Divulgar estabelecimento e atrair clientes |
 |Proprietário de hospedagem | Quero disponibilizar fotos do estabelecimento com animais dos clientes | Divulgar estabelecimento |
 |Proprietário de Estabelecimento | Quero cadastrar meu estabelecimento no site | Divulgar e aumentar a visitação do meu estabelecimento |
@@ -53,15 +53,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| Disponibilizar área com informações de locais públicos *pet friendly* em Minas Gerais | ALTA | 
 |RF-008| Disponibilizar página de hospegagens com informações com regras para hospedagem de pets | ALTA |
 |RF-009| Disponibilizar página com imagens e texto sobre hospedagens específicas | ALTA | 
-|RF-010| Disponibilizar funcionalidade que permita pesquisar hospedagens *pet friendly* em Minas Gerais | MÉDIA |  
-|RF-011| Disponibilizar funcionalidade que permita pesquisar estabelecimentos comerciais privados *pet friendly* em Minas Gerais | MÉDIA |  
-|RF-012| Disponibilizar página em que o usuário poderá inserir depoimentos sobre os estabelecimentos comerciais privados *pet friendly* em Minas Gerais | BAIXA |
-|RF-013| Disponibilizar página em que o usuário poderá consultar depoimentos/feedback sobre as hospedagens *pet friendly* em Minas Gerais | BAIXA |
+|RF-010| Disponibilizar página em que o usuário poderá inserir e consultar depoimentos/feedback sobre hospedagens *pet friendly* em Minas Gerais | ALTA |
+|RF-011| Disponibilizar funcionalidade que permita pesquisar hospedagens *pet friendly* em Minas Gerais | MÉDIA | 
+|RF-012| Disponibilizar funcionalidade que permita pesquisar estabelecimentos comerciais privados *pet friendly* em Minas Gerais | MÉDIA |
+|RF-013| Disponibilizar página em que o usuário poderá inserir depoimentos sobre os estabelecimentos comerciais privados *pet friendly* em Minas Gerais | BAIXA |
 |RF-014| Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimentos | BAIXA |  
 |RF-015| Criar funcionalidade para curtir e comentar os depoimentos	| BAIXA |  
 |RF-016| Disponibilizar área para login de pessoa jurÍdica para manutenção de página | BAIXA |
 |RF-017| Disponibilizar formulário para inserção/alteração de texto sobre hospedagem | BAIXA |
 |RF-018| Disponibilizar formulário para inserção/alteração de imagem sobre hospedagem | BAIXA |
+|RF-019| O sistema deve permitir que os usuários classifiquem os estabelecimentos de 0 a 5 estrelas, a classificação será usada para gerar rankings de estabelecimentos com base na média das classificações | BAIXA |
 
 ### Requisitos não Funcionais
 
