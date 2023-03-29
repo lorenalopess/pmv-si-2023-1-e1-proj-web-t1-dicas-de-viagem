@@ -36,9 +36,8 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Viajante        | Acessar feedback de hóspedes | Me basear e escolher uma acomodação *pet friendly* |
 |Proprietário de hospedagem | Quero disponibilizar dados sobre minha hospedagem *pet-friendly* com foco no trato dos pets | Divulgar estabelecimento e atrair clientes |
 |Proprietário de hospedagem | Quero disponibilizar fotos do estabelecimento com animais dos clientes | Divulgar estabelecimento |
-|Proprietário de Estabelecimento | Cadastrar meu estabelecimento no site |  Divulgar estabelecimento |
-|Proprietário de Estabelecimento | Quero disponibilizar fotos do estabelecimento com animais dos clientes |  CLientes visualizar como são as acomodações |
-|Proprietário de Estabelecimento  | Quero disponibilizar dados sobre minha hospedagem *pet-friendly* com foco no trato dos pets | Divulgar a reputação do estabelecimento e atrair clientes |
+|Proprietário de Estabelecimento | Quero cadastrar meu estabelecimento no site | Divulgar e aumentar a visitação do meu estabelecimento |
+|Proprietário de Estabelecimento | Quero disponibilizar fotos dos tutores com seus animais e do estabelecimento|  Clientes possam visualizar o espaço físico do estabelecimento|
 
 
 ## Requisitos
