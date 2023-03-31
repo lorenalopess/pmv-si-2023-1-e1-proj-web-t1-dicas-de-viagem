@@ -10,12 +10,9 @@
 
 3. Mariana tem 25 anos, trabalha como CLT, é programadora, formada em Sistemas de Informação, e mora com a sua cachorrinha Mel em um apartamento em Belo Horizonte/MG. Mariana resgatou Mel da rua quando ela ainda era filhote. Hoje, Mel tem hoje 5 anos, e acabou de terminar o seu adestramento profissional, no qual aprendeu a se socializar corretamente. Por isso, Mariana tem visitado vários locais públicos pet-friendly em Belo Horizonte para "testar" o adestramento. Como Mel tem se comportado muito bem, Mariana decidiu que quer viajar de carro com seu pet em Minas Gerais, porém não sabe quais regras deve seguir. Além disso, ela tem tido dificuldade em encontrar um local onde pudesse pesquisar sobre hospedagens e locais públicos pet-friendly para ir com seu pet durante a viagem. 
 
-### Segundo público-alvo
+### Dono de estabelecimento
 
-1.  Vitor Santos 42 anos, empresário, casado, tem um 1 filho que faz faculdade em outra cidade. É dono e administra pousada em Poços de Caldas - MG que, durante a pandemia, teve problemas financeiros, com o retorno as atividades conseguiu manter a pousada aberta. Sempre teve animais em casa desde pequeno, atualmente, possui um gato mestiço, Mingau, que faz companhia no seu dia a dia, por vezes fica na pousada. Tem buscado divulgar seu estabelecimento para pessoas que possuam animais pois considera um diferencial quando comparado com seus concorrentes.
-
-2. José Alfredo tem 45 anos e reside em Mariana, MG, empresário dono de um estabelecimento onde de dia funciona como um restaurante e a noite como bar. Começou a empreender cedo, se considera uma pessoa determinada e focada, tem como meta dar mais visibilidade aos seus empreendimentos. É uma pessoa ativa na causa animal e defende a teoria do bem-estar, onde revela como os animais lidam com as condições em que vivem. Um animal está em boa saúde quando é bem nutrido, seguro, capaz de expressar um comportamento inato e não sofre de condições desagradáveis, como dor, pavor e angústia. Baseado em suas motivações pessoais, decidiu transformar seu estabelecimento em uma área comum em que tutores e animais possam desfrutar e se divertir de um local onde todos são aceitos.
-
+1.  Vitor Santos tem 42 anos, é empresário e dono de um estabelecimento *pet-friendly* em Poços de Caldas, MG. Além de ser uma pousada, o espaço também funciona como restaurante e conta com um espaço exclusivo para os pets brincarem. Vitor sempre teve animais de estimação e atualmente possui um gato mestiço, Mingau, que faz companhia no seu dia a dia, e, por vezes, fica na pousada. Ele busca divulgar seu estabelecimento para pessoas que desejam viajar com seu pet, pois considera um diferencial quando comparado aos seus concorrentes.
 
 ## Histórias de Usuários
 
