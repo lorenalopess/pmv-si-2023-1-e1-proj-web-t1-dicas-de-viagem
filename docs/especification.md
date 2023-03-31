@@ -66,10 +66,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet	 | ALTA | 
-|RNF-002| O sistema deve ser confiável e atender aos requisitos do usuário. |  ALTA |
-|RNF-003| Disponibilidade de adaptação da interface pró acessibilidade	| MÉDIA | 
-|RNF-004| A página deverá ter disponibilidade em 90% do tempo	 |  BAIXA | 
-|RNF-005| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Disponibilidade de adaptação da interface pró acessibilidade	| MÉDIA | 
+|RNF-003| A página deverá ter disponibilidade em 90% do tempo	 |  BAIXA | 
+|RNF-004| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 ## Restrições
 
