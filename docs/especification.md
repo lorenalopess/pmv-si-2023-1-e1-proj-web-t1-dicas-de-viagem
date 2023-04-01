@@ -16,18 +16,12 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Tutor de pet | Ter acesso às regras de viagem de avião com pet | Viajar de avião com meu pet |
-|Tutor de pet | Localizar hospedagens *pet friendly* em Minas Gerais | Vijar com meu pet para destinos mineiros |
-|Tutor de pet | Conhecer estabelecimentos comerciais privados em Minas Gerais que sejam *pet friendly* | Conseguir passear com meu pet durante a viagem |
-|Viajante e tutor de pet | Acessar regras de viagens de ônibus com pet | Viajar de ônibus com meu pet |
-|Viajante e tutor de pet | Acessar comentários e feedback de outros hóspedes | Me basear e escolher uma acomodação *pet friendly* |
-|Tutor de pet | Conhecer locais públicos em Minas Gerais que sejam pet friendly | Conseguir passear com meu pet durante a viagem |
-|tutor de pet |Acessar regras de viagens de carro com pet | Viajar de carro com meu pet 
-|Proprietário de hospedagem | Quero disponibilizar dados sobre minha hospedagem *pet-friendly* com foco no trato dos pets | Divulgar estabelecimento e atrair clientes |
-|Proprietário de hospedagem | Quero disponibilizar fotos do estabelecimento com animais dos clientes | Divulgar estabelecimento |
-|Proprietário de Estabelecimento | Quero cadastrar meu estabelecimento no site | Divulgar e aumentar a visitação do meu estabelecimento |
-|Proprietário de Estabelecimento | Quero disponibilizar fotos dos tutores com seus animais e do estabelecimento|  Clientes possam visualizar o espaço físico do estabelecimento|
-
+| Viajante | Ter acesso às regras de viagem com meu pet | Viajar com meu pet |
+| Viajante | Localizar hospedagens pet friendly em Minas Gerais | Hospedar com meu pet em destinos no estado de Minas Gerais |
+| Viajante | Conhecer locais públicos e privados em Minas Gerais que sejam pet friendly | Passear com meu pet durante a viagem |
+| Viajante | Acessar comentários e feedback de outros viajantes | Me basear e escolher uma acomodação pet friendly |
+| Proprietário de Estabelecimento | Cadastrar meu estabelecimento pet friendly no site | Conseguir mais clientes |
+| Proprietário de Estabelecimento | Disponibilizar fotos do estabelecimento com animais dos clientes | Divulgar o estabelecimento |
 
 ## Requisitos
 
