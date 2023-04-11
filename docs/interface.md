@@ -19,20 +19,29 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+### Homepage
 
-### Exemplo
+A homepage apresenta todas as seções do site (informações, regras de viagem, hospedagens, locais pet friendly, login e cadastro) que podem ser acessadas através dos botões localizados no menu navegação. No menu navegação, haverá uma opção de acessibilidade, conforme RNF-002. No card superior, logo abaixo do menu navegação, haverá um resumo das informações do projeto e um botão "Veja mais +" que redirecionará o usuário para a página "Informações" e a logo do projeto. Mais abaixo terá um card com algumas opções de hospedagens, um card com alguns depoimentos e uma opção para o usuário deixar seu depoimento sobre alguma hospedagem ou local pet friendly estando logado (o nome e a foto já estará preenchida) ou de forma anônima, conforme RF-012. O layout da homepage determinará o layout das demais seções do site. No rodapé da homepage, encontram-se os direitos de uso do site, bem como a instituição de apoio do projeto.
 
-A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
+![Wireframe Homepage](img/Homepage.png)
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+### Informações
 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
+### Regras
+
+
+### Hospedagens
+
+
+### Locais pet friendly
+
+
+### Login
+
+
+### Cadastro
+
+Quando o usuário clicar no botão "Cadastro" localizado no menu navegação da Homepage, será redirecionado para a página "Cadastro". A página apresenta o mesmo menu navegação da homepage e o card do topo da página possui a logo e uma foto de um pet. Mais abaixo, o usuário conseguirá preencher seus dados cadastrais, fazer o upload de uma foto e enviar as informações através de um botão. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
+
+![Wireframe Cadastro](img/Cadastro.png)
