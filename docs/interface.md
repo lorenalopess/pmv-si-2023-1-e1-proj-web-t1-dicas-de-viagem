@@ -48,6 +48,11 @@ Quando o usuário clicar no botão "Estabelecimento" localizado na página de ca
 
 ![Wireframe Cadastro](img/Cadastro_Estabelecimento.png)
 
+### Tela Estabelecimento
+Quando o usuário donos de estabelecimentos finalizarem o cadastro ou realizarem login, será redirecionado para a página "Tela Estabelecimento". A página o apresenta o cabeçalho igual o da homepage, e o card do topo da página possui a logo e uma foto de um pet, na parte central do site a um modelo de como o anúncio é apresentado aos outros usuários, podendo editar informações e fotos, no final da página apresenta os depoimentos referente a sua hospedagem. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
+
+![Wireframe Cadastro](img/Tela_estabelecimento.png)
+
 ### Depoimentos
 
 Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Depoimentos". A página apresenta o mesmo menu navegação da Homepage e o card no topo da página possui a logo e uma foto de um pet. Mais abaixo, haverá um formulário onde o usuário poderá deixar seu depoimento sobre algum estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
