@@ -43,6 +43,10 @@ Quando o usuário clicar no botão "Cadastro" localizado no menu navegação da 
 
 ![Wireframe Cadastro](img/Cadastro.png)
 
+#### Cadastro de estabelecimento 
+Quando o usuário clicar no botão "Estabelecimento" localizado na página de cadastro, será redirecionado para a página "Cadastro Estabelecimento". A página apresenta uma versão diferente da homepage, possui a logo e o nome do projeto na parte superior um banner com o título da página, na parte central do site a dois formulários para o empresário preencher seus dados cadastrais e de sua empresa, podendo realizar o upload de uma foto de perfil e do estabelecimento e enviar as informações por meio de um botão. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
+
+![Wireframe Cadastro](img/Cadastro_Estabelecimento.png)
 
 ### Depoimentos
 
