@@ -21,20 +21,20 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ### Homepage
 
-A homepage apresenta todas as seções do site (informações, regras de viagem, hospedagens, locais pet friendly, login e cadastro) que podem ser acessadas através dos botões localizados no menu navegação. No menu navegação, haverá uma opção de acessibilidade, conforme RNF-002. No card superior, logo abaixo do menu navegação, haverá um resumo das informações do projeto e um botão "Veja mais +" que redirecionará o usuário para a página "Informações" e a logo do projeto. Mais abaixo terá um card com algumas opções de hospedagens, um card com alguns depoimentos e uma opção para o usuário deixar seu depoimento sobre alguma hospedagem ou local pet friendly estando logado (o nome e a foto já estará preenchida) ou de forma anônima, conforme RF-012. O layout da homepage determinará o layout das demais seções do site. No rodapé da homepage, encontram-se os direitos de uso do site, bem como a instituição de apoio do projeto.
+A homepage apresenta todas as seções do site (sobre nós, regras de viagem, estabelecimentos, pontos turísticos, login e cadastro) que podem ser acessadas através dos botões localizados no menu navegação e os depoimentos cuja página pode ser acessada através do botão "Veja mais +" localizado no card "Depoimentos" no final da página. No menu navegação, haverá uma opção de acessibilidade, conforme RNF-002. No card superior, logo abaixo do menu navegação, haverá um resumo das informações do projeto e um botão "Veja mais +" que redirecionará o usuário para a página "Sobre nós" e a logo do projeto. Mais abaixo terá um card com algumas opções de estabelecimentos. O layout da homepage determinará o layout das demais seções do site. No rodapé da homepage, encontram-se os direitos de uso do site, bem como a instituição de apoio do projeto.
 
 ![Wireframe Homepage](img/Homepage.png)
 
-### Informações
+### Sobre nós
 
 
 ### Regras
 
 
-### Hospedagens
+### Estabelecimentos
 
 
-### Locais pet friendly
+### Pontos turísticos
 
 
 ### Login
@@ -45,3 +45,10 @@ A homepage apresenta todas as seções do site (informações, regras de viagem,
 Quando o usuário clicar no botão "Cadastro" localizado no menu navegação da Homepage, será redirecionado para a página "Cadastro". A página apresenta o mesmo menu navegação da homepage e o card do topo da página possui a logo e uma foto de um pet. Mais abaixo, o usuário conseguirá preencher seus dados cadastrais, fazer o upload de uma foto e enviar as informações através de um botão. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
 
 ![Wireframe Cadastro](img/Cadastro.png)
+
+
+### Depoimentos
+
+Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Depoimentos". A página apresenta o mesmo menu navegação da Homepage e o card no topo da página possui a logo e uma foto de um pet. Mais abaixo, haverá um formulário onde o usuário poderá deixar seu depoimento sobre algum estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
+
+![Wireframe Depoimentos](img/Depoimentos.png)
