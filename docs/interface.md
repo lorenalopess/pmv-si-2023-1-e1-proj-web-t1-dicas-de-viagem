@@ -27,9 +27,15 @@ A homepage apresenta todas as seções do site (sobre nós, regras de viagem, es
 
 ### Sobre nós
 
+Após clicar no botão "Veja mais +" na homepage, o usuário será direcionado para a página "Sobre nós". O menu navegação da  página é o mesmo da homepage e o card do topo da página possui a logo do projeto. Abaixo, se encontram fotos pessoais dos criadores com ou sem os seus pet que estarão acompanhadas por um breve texto contendo a apresentação do projeto, a sua motivação e seus objetivos. No rodapé da página, estão os direitos de uso do site e da instituição de apoio do projeto.
 
-### Regras
+<img width="1836" alt="Sobre nós" src="https://user-images.githubusercontent.com/116188910/231491393-ab9d2b74-faeb-4754-9dae-0332f426ed30.png">
 
+### Regras de Viagem
+
+Ao clicar no botão "Regras de Viagem" contido na homepage, o usuário será direcionado para a página "Regras de Viagem" na qual o menu navegação é o mesmo da homepage e o card do topo da página possui a logo do projeto. Abaixo, se encontram as regras de viagem com os pets dividas em três seções (avião, carro e ônibus) de acordo com as RF-001, RF-002 e RF-003. Cada seção pode ser indentificada pelo nome e foto que acompanham a sua especificidade de meio de transporte. No rodapé da página, estão os direitos de uso do site e da instituição de apoio do projeto.
+
+<img width="1836" alt="Regras de Viagem" src="https://user-images.githubusercontent.com/116188910/231489541-9d892242-caaa-499b-b46a-dd5994c33b82.png">
 
 ### Estabelecimentos
 
