@@ -39,7 +39,7 @@ Ao clicar no botão "Regras de Viagem" contido na homepage, o usuário será dir
 
 ### Cadastro
 
-Quando o usuário clicar no botão "Cadastro" localizado no menu navegação da Homepage, será redirecionado para a página "Cadastro". A página apresenta o mesmo menu navegação da homepage e o card do topo da página possui a logo e uma foto de um pet. Mais abaixo, o usuário conseguirá preencher seus dados cadastrais, fazer o upload de uma foto e enviar as informações através de um botão. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
+Quando o usuário clicar no botão "Cadastro" localizado no menu navegação da Homepage, será redirecionado para a página "Cadastro". A página apresenta o mesmo menu navegação da homepage e o card do topo da página possui a logo e uma foto de um pet. Mais abaixo, haverá dois botões para selecionar se o cadastro será do usuário ou do estabelecimento. Ao clicar no botão "usuário", será aberto um formulário onde o usuário conseguirá preencher seus dados cadastrais, fazer o upload de uma foto e enviar as informações através de um botão. Caso seja clicado no botão "estabelecimento", será redirecionado para a página de "Cadastro de estabelecimento". No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
 
 ![Wireframe Cadastro](img/Cadastro.png)
 
